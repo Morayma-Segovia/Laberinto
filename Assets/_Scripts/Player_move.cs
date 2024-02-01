@@ -68,13 +68,13 @@ public class Player_move : MonoBehaviour
             rb.velocity= Vector3.zero;
             rb.angularVelocity= Vector3.zero;
             monedas = 0;
-            score.text = "Monedas: 0" ;
+            score.text = "Monedas Recolectadas: 0";
         }
         else if (other.CompareTag("moneda"))
         {
             other.gameObject.SetActive(false);
             monedas = monedas + 1;
-            score.text = "Monedas: " + monedas;
+            score.text = "Monedas Recolectadas: " + monedas;
         }
         else if(other.CompareTag("Obstaculo"))
         {
