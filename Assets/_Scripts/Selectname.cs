@@ -15,11 +15,11 @@ public class Selectname : MonoBehaviour
     public Image luz;
 
     public GameObject botonAceptar;
-    
 
+    public GameObject funciones;
 
     private void Awake()
-      {
+       {
           luz.color = Color.red;
       }
 
@@ -41,9 +41,9 @@ public class Selectname : MonoBehaviour
 
       public void aceptar()
       {
-          PlayerPrefs.SetString("nombre1", inputText.text);
-          SceneManager.LoadScene("Menu");
-
+        PlayerPrefs.SetString("nombre1", inputText.text);
+        SceneManager.LoadScene("Menu");
+        funciones.GetComponent<GuradarPersonaje>().guardar();
       }
 
 
