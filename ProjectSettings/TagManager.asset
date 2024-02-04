@@ -10,6 +10,14 @@ TagManager:
   - Obstaculo
   - Nombre1
   - nombre1
+  - escudo
+  - especial
+  - raresa
+  - gema
+  - Cofrecerrado
+  - cofreabierto
+  - monedagema
+  - pared
   layers:
   - Default
   - TransparentFX
