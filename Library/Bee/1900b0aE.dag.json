@@ -361,8 +361,13 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
+<<<<<<< Updated upstream
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -373,8 +378,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 239,
       "PayloadLength": 41190,
+=======
+      "PayloadOffset": 250,
+      "PayloadLength": 43381,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -386,9 +396,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 41523,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 43725,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2233,8 +2249,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 41678,
       "PayloadLength": 7441,
+=======
+      "PayloadOffset": 43891,
+      "PayloadLength": 7355,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -2436,9 +2457,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 49224,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 51351,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2449,8 +2476,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 49348,
       "PayloadLength": 35703,
+=======
+      "PayloadOffset": 51486,
+      "PayloadLength": 37894,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -2462,9 +2494,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 85137,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 89466,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -2904,8 +2942,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 85284,
       "PayloadLength": 7979,
+=======
+      "PayloadOffset": 89624,
+      "PayloadLength": 7893,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -3119,9 +3162,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 93376,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 97630,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3132,8 +3181,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 93508,
       "PayloadLength": 47231,
+=======
+      "PayloadOffset": 97773,
+      "PayloadLength": 49466,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -3145,9 +3199,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 140833,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 147333,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3606,8 +3666,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 140988,
       "PayloadLength": 7607,
+=======
+      "PayloadOffset": 147499,
+      "PayloadLength": 7521,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -3813,9 +3878,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 148700,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 155125,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3826,8 +3897,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 148824,
       "PayloadLength": 32729,
+=======
+      "PayloadOffset": 155260,
+      "PayloadLength": 34964,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -3839,9 +3915,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 181639,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 190310,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4190,8 +4272,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 181786,
       "PayloadLength": 8305,
+=======
+      "PayloadOffset": 190468,
+      "PayloadLength": 8219,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -4413,9 +4500,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 190211,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 198807,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4426,8 +4519,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 190350,
       "PayloadLength": 30148,
+=======
+      "PayloadOffset": 198957,
+      "PayloadLength": 32383,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -4439,9 +4537,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 220599,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 231441,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4741,8 +4845,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 220761,
       "PayloadLength": 8381,
+=======
+      "PayloadOffset": 231614,
+      "PayloadLength": 8295,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -4966,9 +5075,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 229274,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 240041,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -4979,8 +5094,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 229425,
       "PayloadLength": 32921,
+=======
+      "PayloadOffset": 240203,
+      "PayloadLength": 35156,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -4992,9 +5112,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 262459,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 275472,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5305,8 +5431,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 262633,
       "PayloadLength": 8381,
+=======
+      "PayloadOffset": 275657,
+      "PayloadLength": 8295,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -5530,9 +5661,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 271128,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 284066,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5543,8 +5680,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 271261,
       "PayloadLength": 60666,
+=======
+      "PayloadOffset": 284210,
+      "PayloadLength": 62901,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -5556,9 +5698,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 332022,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 347206,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6126,8 +6274,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 332178,
       "PayloadLength": 7930,
+=======
+      "PayloadOffset": 347373,
+      "PayloadLength": 7844,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -6341,9 +6494,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 340217,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 355326,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6354,8 +6513,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 340345,
       "PayloadLength": 32540,
+=======
+      "PayloadOffset": 355465,
+      "PayloadLength": 34775,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -6367,9 +6531,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 372975,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 390330,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -6679,8 +6849,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 373126,
       "PayloadLength": 7843,
+=======
+      "PayloadOffset": 390492,
+      "PayloadLength": 7757,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -6892,9 +7067,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 381081,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 398361,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -6905,8 +7086,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 381212,
       "PayloadLength": 30864,
+=======
+      "PayloadOffset": 398503,
+      "PayloadLength": 33099,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -6918,9 +7104,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 412169,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 431695,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7211,8 +7403,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 412323,
       "PayloadLength": 8381,
+=======
+      "PayloadOffset": 431860,
+      "PayloadLength": 8295,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -7436,9 +7633,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 420846,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 440297,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7449,8 +7652,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 421007,
       "PayloadLength": 31625,
+=======
+      "PayloadOffset": 440469,
+      "PayloadLength": 33860,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -7462,9 +7670,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 452755,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 474452,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -7757,8 +7971,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 452939,
       "PayloadLength": 8381,
+=======
+      "PayloadOffset": 474647,
+      "PayloadLength": 8295,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -7982,9 +8201,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 461472,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 483094,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -7995,8 +8220,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 461643,
       "PayloadLength": 30398,
+=======
+      "PayloadOffset": 483276,
+      "PayloadLength": 32633,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -8008,9 +8238,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 492174,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 516042,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8292,8 +8528,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 492368,
       "PayloadLength": 8381,
+=======
+      "PayloadOffset": 516247,
+      "PayloadLength": 8295,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -8517,9 +8758,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 500857,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 524650,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8530,8 +8777,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 500984,
       "PayloadLength": 33791,
+=======
+      "PayloadOffset": 524788,
+      "PayloadLength": 35982,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -8543,9 +8795,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 534864,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 560859,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -8873,8 +9131,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 535014,
       "PayloadLength": 8131,
+=======
+      "PayloadOffset": 561020,
+      "PayloadLength": 8045,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -9092,9 +9355,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 543250,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 569170,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9105,8 +9374,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 543374,
       "PayloadLength": 34875,
+=======
+      "PayloadOffset": 569305,
+      "PayloadLength": 37066,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -9118,9 +9392,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 578335,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 606457,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -9462,8 +9742,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 578482,
       "PayloadLength": 8131,
+=======
+      "PayloadOffset": 606615,
+      "PayloadLength": 8045,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -9681,9 +9966,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 586723,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 614770,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9694,8 +9985,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 586852,
       "PayloadLength": 30513,
+=======
+      "PayloadOffset": 614910,
+      "PayloadLength": 32748,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -9707,9 +10003,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 617456,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 647749,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -9995,8 +10297,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 617608,
       "PayloadLength": 8381,
+=======
+      "PayloadOffset": 647912,
+      "PayloadLength": 8295,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -10220,9 +10527,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 626106,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 656324,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10233,8 +10546,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 626242,
       "PayloadLength": 82597,
+=======
+      "PayloadOffset": 656471,
+      "PayloadLength": 84788,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -10246,9 +10564,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 708937,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 741357,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -10945,8 +11269,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 709096,
       "PayloadLength": 8131,
+=======
+      "PayloadOffset": 741527,
+      "PayloadLength": 8045,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -11164,9 +11493,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 717343,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 749688,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11177,8 +11512,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 717478,
       "PayloadLength": 32826,
+=======
+      "PayloadOffset": 749834,
+      "PayloadLength": 35061,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -11190,9 +11530,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 750401,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 784992,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11507,8 +11853,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 750559,
       "PayloadLength": 7843,
+=======
+      "PayloadOffset": 785161,
+      "PayloadLength": 7757,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -11720,9 +12071,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 758517,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 793033,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -11733,8 +12090,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 758651,
       "PayloadLength": 29943,
+=======
+      "PayloadOffset": 793178,
+      "PayloadLength": 32178,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -11746,9 +12108,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 788690,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 825452,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12047,8 +12415,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 788847,
       "PayloadLength": 8466,
+=======
+      "PayloadOffset": 825620,
+      "PayloadLength": 8380,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -12274,9 +12647,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 797439,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 834126,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12287,8 +12666,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 797584,
       "PayloadLength": 34191,
+=======
+      "PayloadOffset": 834282,
+      "PayloadLength": 36426,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -12300,9 +12684,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 831882,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 870815,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -12681,8 +13071,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 832050,
       "PayloadLength": 8162,
+=======
+      "PayloadOffset": 870994,
+      "PayloadLength": 8076,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -12900,9 +13295,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 840327,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 879185,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -12913,8 +13314,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 840461,
       "PayloadLength": 34307,
+=======
+      "PayloadOffset": 879330,
+      "PayloadLength": 36542,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -12926,9 +13332,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 874864,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 915968,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13274,8 +13686,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 875021,
       "PayloadLength": 8460,
+=======
+      "PayloadOffset": 916136,
+      "PayloadLength": 8374,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -13501,9 +13918,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 883593,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 924622,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -13514,8 +13937,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 883724,
       "PayloadLength": 54147,
+=======
+      "PayloadOffset": 924764,
+      "PayloadLength": 56382,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -13527,9 +13955,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 937964,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 981239,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14099,8 +14533,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 938118,
       "PayloadLength": 8457,
+=======
+      "PayloadOffset": 981404,
+      "PayloadLength": 8371,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -14326,9 +14765,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 946699,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 989899,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14339,8 +14784,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 946842,
       "PayloadLength": 86812,
+=======
+      "PayloadOffset": 990053,
+      "PayloadLength": 89047,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -14352,9 +14802,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1033759,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 1079205,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15122,8 +15578,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1033925,
       "PayloadLength": 8469,
+=======
+      "PayloadOffset": 1079382,
+      "PayloadLength": 8383,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -15349,9 +15810,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1042511,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 1087882,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15362,8 +15829,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1042647,
       "PayloadLength": 78007,
+=======
+      "PayloadOffset": 1088029,
+      "PayloadLength": 80198,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -15375,9 +15847,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1120752,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 1168325,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16050,8 +16528,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1120911,
       "PayloadLength": 8219,
+=======
+      "PayloadOffset": 1168495,
+      "PayloadLength": 8133,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -16271,9 +16754,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1129254,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 1176752,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16284,8 +16773,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1129397,
       "PayloadLength": 50371,
+=======
+      "PayloadOffset": 1176906,
+      "PayloadLength": 52606,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -16297,9 +16791,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1179873,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 1229617,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -16788,8 +17288,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1180039,
       "PayloadLength": 8652,
+=======
+      "PayloadOffset": 1229794,
+      "PayloadLength": 8566,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -17019,9 +17524,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1188809,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 1238478,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17032,8 +17543,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1188946,
       "PayloadLength": 32011,
+=======
+      "PayloadOffset": 1238626,
+      "PayloadLength": 34202,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -17045,9 +17561,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1221056,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 1272927,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -17351,8 +17873,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1221216,
       "PayloadLength": 8307,
+=======
+      "PayloadOffset": 1273098,
+      "PayloadLength": 8221,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -17574,9 +18101,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1229659,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 1281455,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -17587,8 +18120,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1229814,
       "PayloadLength": 31419,
+=======
+      "PayloadOffset": 1281621,
+      "PayloadLength": 33654,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -17600,9 +18138,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1261350,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 1315392,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -17936,8 +18480,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1261528,
       "PayloadLength": 8836,
+=======
+      "PayloadOffset": 1315581,
+      "PayloadLength": 8750,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -18171,9 +18720,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1270489,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 1324456,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18184,8 +18739,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1270633,
       "PayloadLength": 38246,
+=======
+      "PayloadOffset": 1324611,
+      "PayloadLength": 40481,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -18197,9 +18757,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1308985,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 1365198,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -18555,8 +19121,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1309152,
       "PayloadLength": 8836,
+=======
+      "PayloadOffset": 1365376,
+      "PayloadLength": 8750,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -18790,9 +19361,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1318114,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 1374252,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -18803,8 +19380,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1318259,
       "PayloadLength": 30392,
+=======
+      "PayloadOffset": 1374408,
+      "PayloadLength": 32627,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -18816,9 +19398,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1348758,
       "PayloadLength": 52,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\Laber",
+=======
+      "PayloadOffset": 1407142,
+      "PayloadLength": 63,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\futbo\\OneDr",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19127,8 +19715,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1348926,
       "PayloadLength": 8932,
+=======
+      "PayloadOffset": 1407321,
+      "PayloadLength": 8846,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [
@@ -19364,9 +19957,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1357964,
       "PayloadLength": 39,
       "PayloadDebugContentSnippet": "C:\\Users\\futbo\\Laberinto-main\\",
+=======
+      "PayloadOffset": 1416273,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "C:\\Users\\futbo\\OneDrive\\Docume",
+>>>>>>> Stashed changes
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -19377,8 +19976,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1358089,
       "PayloadLength": 32088,
+=======
+      "PayloadOffset": 1416409,
+      "PayloadLength": 34470,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -19390,7 +19994,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1390264,
+=======
+      "PayloadOffset": 1450966,
+>>>>>>> Stashed changes
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -19926,7 +20534,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 1390360,
+=======
+      "PayloadOffset": 1451062,
+>>>>>>> Stashed changes
       "PayloadLength": 9366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21010,7 +21622,11 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
+<<<<<<< Updated upstream
       "Action": "\"D:/Unity editor/2022.3.18f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/Unity editor/2022.3.18f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"D:\\Unity editor\\2022.3.18f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"D:\\Unity editor\\2022.3.18f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"D:\\Unity editor\\2022.3.18f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"D:\\Unity editor\\2022.3.18f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"D:\\Unity editor\\2022.3.18f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"C:\\Users\\futbo\\Laberinto-main\\Laberinto\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+=======
+      "Action": "\"C:/Program Files/Unity Hub/2022.3.18f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity Hub/2022.3.18f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity Hub\\2022.3.18f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity Hub\\2022.3.18f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity Hub\\2022.3.18f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity Hub\\2022.3.18f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity Hub\\2022.3.18f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"C:\\Users\\futbo\\OneDrive\\Documents\\GitHub\\Laberinto\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+>>>>>>> Stashed changes
       "Inputs": [
         "D:/Unity editor/2022.3.18f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "D:/Unity editor/2022.3.18f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21296,6 +21912,10 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
+<<<<<<< Updated upstream
   "PayloadsFile": "C:/Users/futbo/Laberinto-main/Laberinto/Library/Bee/1900b0aE.dag.payloads",
+=======
+  "PayloadsFile": "C:/Users/futbo/OneDrive/Documents/GitHub/Laberinto/Library/Bee/1900b0aE.dag.payloads",
+>>>>>>> Stashed changes
   "RelativePathToRoot": "../.."
 }

@@ -19,7 +19,11 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
+<<<<<<< Updated upstream
   m_Title: Hierarchy
+=======
+  m_Title: Scene
+>>>>>>> Stashed changes
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +52,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 17
+=======
+  controlID: 100
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,7 +375,11 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/_Scripts
   m_LastFoldersGridSize: -1
+<<<<<<< Updated upstream
   m_LastProjectPath: C:\Users\futbo\Laberinto-main\Laberinto
+=======
+  m_LastProjectPath: C:\Users\futbo\OneDrive\Documents\GitHub\Laberinto
+>>>>>>> Stashed changes
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -427,8 +439,13 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
+<<<<<<< Updated upstream
     m_SelectedInstanceIDs: c6630000
     m_LastClickedInstanceID: 25542
+=======
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+>>>>>>> Stashed changes
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000785a000000000000
     m_RenameOverlay:
@@ -541,8 +558,13 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
+<<<<<<< Updated upstream
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: c6630000
+=======
+      scrollPos: {x: 0, y: 378}
+      m_SelectedIDs: 
+>>>>>>> Stashed changes
       m_LastClickedID: 0
       m_ExpandedIDs: 629dffff34aaffff5cb0ffff60b0ffff68d1ffff20d4ffffdad4ffff4ce5fffff4e5ffffbcf0ffffe4f9ffff30fbffffa85b0000385d0000545d0000a25f000018600000fc600000
       m_RenameOverlay:
