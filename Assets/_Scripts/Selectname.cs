@@ -41,8 +41,9 @@ public class Selectname : MonoBehaviour
 
       public void aceptar()
       {
-          PlayerPrefs.SetString("nombre1", inputText.text);
-          SceneManager.LoadScene("Menu");
+            PlayerPrefs.SetString("nombre1", inputText.text);
+            ProfileStorage.CreateNewGame(inputText.text);
+            SceneManager.LoadScene("Menu");
 
       }
 
