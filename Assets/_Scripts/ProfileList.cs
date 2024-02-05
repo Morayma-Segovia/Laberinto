@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ProfileLis : MonoBehaviour
+public class ProfileList : MonoBehaviour
 {
     public Transform profilesHolder;
     public GameObject profileUIBoxPrefab;
@@ -21,7 +21,7 @@ public class ProfileLis : MonoBehaviour
             uibox.loadBtn.onClick.AddListener(() =>
             {
                 ProfileStorage.LoadProfile(profileName);
-                SceneManager.LoadScene("Nivel1");
+                SceneManager.LoadScene("Prueba");
             });
 
             uibox.deleteBtn.onClick.AddListener(() =>

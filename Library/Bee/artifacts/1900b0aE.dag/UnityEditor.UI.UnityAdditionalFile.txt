@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-C:\Users\futbo\Laberinto-main\Laberinto
-=======
-C:\Users\futbo\OneDrive\Documents\GitHub\Laberinto
->>>>>>> Stashed changes
+C:\Users\futbo\LABERINTO

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ProfileIndex : MonoBehaviour
+public class ProfileIndex
 {
     public List<string> profileFileNames;
     public ProfileIndex()

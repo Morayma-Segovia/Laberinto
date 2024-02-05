@@ -4,7 +4,7 @@ using System.IO;
 using System.Xml.Serialization;
 using UnityEngine;
 
-public class ProfileStorage : MonoBehaviour
+public class ProfileStorage
 {
     public static ProfileData s_currentProfile;
     private static string s_indexPath = Application.streamingAssetsPath + "/Profiles/_ProfileIndex_.xml";
@@ -33,7 +33,7 @@ public class ProfileStorage : MonoBehaviour
 
     public static void LoadProfile(string filename)
     {
-        var path = Application.streamingAssetsPath + "/Profile/" + filename;
+        var path = Application.streamingAssetsPath + "/Profiles/" + filename;
         s_currentProfile = LoadFile<ProfileData>(path);
     }
     public static void StoragePlayerProfile(GameObject player)
@@ -44,12 +44,12 @@ public class ProfileStorage : MonoBehaviour
         
         s_currentProfile.newGame = false;
 
-        var path = Application.streamingAssetsPath + "/Profile/" + s_currentProfile.filename;
+        var path = Application.streamingAssetsPath + "/Profiles/" + s_currentProfile.filename;
         SaveFile<ProfileData>(path, s_currentProfile);
     }
     public static void DeleteProfile(string filename)
     {
-        var path = Application.streamingAssetsPath + "/Profile/" + filename;
+        var path = Application.streamingAssetsPath + "/Profiles/" + filename;
         File.Delete(path);
 
         var index = LoadFile<ProfileIndex>(s_indexPath);
@@ -67,11 +67,12 @@ public class ProfileStorage : MonoBehaviour
     }
     static T LoadFile<T>(string path)
     {
-        var profileReader = new StreamReader(path);
-        var serializer = new XmlSerializer(typeof(T));
-        var obj = (T)serializer.Deserialize(profileReader);
-        profileReader.Dispose();
-        
-        return obj;
+        using (var profileReader = new StreamReader(path))
+        {
+            var serializer = new XmlSerializer(typeof(T));
+            var obj = (T)serializer.Deserialize(profileReader);
+            return obj;
+        }
     }
+
 }

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ProfileData : MonoBehaviour
+public class ProfileData
 {
     public string filename;
     public string name;
