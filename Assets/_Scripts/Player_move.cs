@@ -14,6 +14,11 @@ public class Player_move : MonoBehaviour
     public Text escudos;
     public Text tvictoria;
     public Text XP;
+    public Text totalEXP;
+    public Text TMonedas;
+    public Text TRarezas;
+    public Text TGemas;
+    public Text TEspeciales;
     public GameObject cofre;
     public GameObject gemac;
     public GameObject gemacs;
@@ -34,6 +39,11 @@ public class Player_move : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         posicionInicial= transform.position;
         tvictoria.enabled = false;
+        totalEXP.enabled = false;
+        TMonedas.enabled = false;
+        TRarezas.enabled = false;
+        TGemas.enabled = false; 
+        TEspeciales.enabled = false;
         haSalido = false;
         cofre.SetActive(false);
         gemac.SetActive(false);
@@ -79,7 +89,33 @@ public class Player_move : MonoBehaviour
             tvictoria.enabled=true;
             rb.velocity = Vector3.zero;
             rb.angularVelocity = Vector3.zero;
+            totalEXP.enabled = true;
+            TMonedas.enabled = true;
+            TRarezas.enabled = true;
+            TGemas.enabled = true;
+            TEspeciales.enabled = true;
+            exp = exp + 20;
+            totalEXP.text = "Total EXP:" + exp;
+            if (monedas >= 5)
+            {
+                TMonedas.text = "Has recibido una insignia por recolectar: "+monedas+" monedas";
+            }
 
+            if (raresa >= 1)
+            {
+                TRarezas.text = "Has recibido una insignia por recolectar: " + raresa+" objetos raros";
+            }
+
+            if (gema >= 2)
+            {
+                TRarezas.text = "Has recibido una medalla por recolectar: " + gema+" gemas";
+            }
+
+            if (especial >= 1)
+            {
+                exp = exp + 50;
+                totalEXP.text = "Total EXP: " +exp+" puntos EXP";
+            }
         }
         else if (other.CompareTag("enemigo"))
         {
