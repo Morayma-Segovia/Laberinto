@@ -389,6 +389,7 @@
 "Assets/_Scripts/CAMARA.cs"
 "Assets/_Scripts/camaramovimiento.cs"
 "Assets/_Scripts/CambioNivel.cs"
+"Assets/_Scripts/CamMinimap.cs"
 "Assets/_Scripts/CargaNombre.cs"
 "Assets/_Scripts/Cargar Personaje.cs"
 "Assets/_Scripts/FuncionMenu.cs"
