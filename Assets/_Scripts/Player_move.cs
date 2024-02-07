@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 
@@ -19,10 +20,13 @@ public class Player_move : MonoBehaviour
     public Text TRarezas;
     public Text TGemas;
     public Text TEspeciales;
+    public Text textotecla;
     public GameObject cofre;
     public GameObject gemac;
     public GameObject gemacs;
-        bool haSalido;
+    public int nivel;
+    bool esperandoTecla = false;
+    bool haSalido;
    
     //public float forwardForce = 2000;
     public float sideForce = 200;
@@ -48,6 +52,9 @@ public class Player_move : MonoBehaviour
         cofre.SetActive(false);
         gemac.SetActive(false);
         gemacs.SetActive(false);
+        textotecla.enabled = false;
+
+
 
 
     }
@@ -62,23 +69,29 @@ public class Player_move : MonoBehaviour
             float horizontal = Input.GetAxis("Horizontal");
             rb.AddForce(new Vector3(horizontal, 0, vertical) * sideForce);
         }
-       
-
-      /* 
-        rb.AddForce(0, 0, sideForce * Time.deltaTime);
-
-        if (Input.GetKey("d"))
+        if (esperandoTecla && Input.anyKeyDown)
         {
-            rb.AddForce(sideForce * Time.deltaTime,0,0);
+            SceneManager.LoadScene(nivel);
+
+            esperandoTecla = false;
         }
 
-        if (Input.GetKey("a"))
-        {
-            rb.AddForce(-sideForce * Time.deltaTime, 0, 0);
-        }
 
-        score.text=transform.position.z.ToString("0");
-      */
+        /* 
+          rb.AddForce(0, 0, sideForce * Time.deltaTime);
+
+          if (Input.GetKey("d"))
+          {
+              rb.AddForce(sideForce * Time.deltaTime,0,0);
+          }
+
+          if (Input.GetKey("a"))
+          {
+              rb.AddForce(-sideForce * Time.deltaTime, 0, 0);
+          }
+
+          score.text=transform.position.z.ToString("0");
+        */
     }
 
     private void OnTriggerEnter(Collider other)
@@ -93,7 +106,15 @@ public class Player_move : MonoBehaviour
             TMonedas.enabled = true;
             TRarezas.enabled = true;
             TGemas.enabled = true;
+            textotecla.enabled = true;
             TEspeciales.enabled = true;
+            score.enabled = false;
+            gemas.enabled = false;
+            monedasespeciales.enabled = false;
+            objetoraro.enabled = false;
+            escudos.enabled = false;
+            XP.enabled = false;
+
             exp = exp + 20;
             totalEXP.text = "Total EXP:" + exp;
             if (monedas >= 5)
@@ -116,6 +137,7 @@ public class Player_move : MonoBehaviour
                 exp = exp + 50;
                 totalEXP.text = "Total EXP: " +exp+" puntos EXP";
             }
+            esperandoTecla = true;
         }
         else if (other.CompareTag("enemigo"))
         {
