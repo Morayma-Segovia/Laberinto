@@ -10943,7 +10943,7 @@ PrefabInstance:
       objectReference: {fileID: 487572464}
     - target: {fileID: 1578760108121896621, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: nivel
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1578760108121896621, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: score
@@ -11011,7 +11011,7 @@ PrefabInstance:
       objectReference: {fileID: 487572464}
     - target: {fileID: 3197005120337220036, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: nivel
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3197005120337220036, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: score
@@ -11083,7 +11083,7 @@ PrefabInstance:
       objectReference: {fileID: 487572464}
     - target: {fileID: 5043679895326528126, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: nivel
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5043679895326528126, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: score
@@ -11199,7 +11199,7 @@ PrefabInstance:
       objectReference: {fileID: 487572464}
     - target: {fileID: 6847613141998300778, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: nivel
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6847613141998300778, guid: d666867b1ef08754ea826963b93437ae, type: 3}
       propertyPath: score
